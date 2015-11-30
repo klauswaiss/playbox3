@@ -12,11 +12,15 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        shouldShowAlert()
     }
     
     private func showAlert() {
         print("not finished yet")
+    }
+    
+    private func shouldShowAlert() -> Bool {
+        return false
     }
 }
 
