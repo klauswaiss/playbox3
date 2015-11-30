@@ -12,7 +12,16 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        shouldShowAlert()
         var a = "asdf"
+    }
+    
+    private func showAlert() {
+        print("not finished yet")
+    }
+    
+    private func shouldShowAlert() -> Bool {
+        return false
     }
     
     
