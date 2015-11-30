@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         shouldShowAlert()
+        var a = "asdf"
     }
     
     private func showAlert() {
