@@ -23,7 +23,5 @@ class ViewController: UIViewController {
     private func shouldShowAlert() -> Bool {
         return false
     }
-    
-    
 }
 
