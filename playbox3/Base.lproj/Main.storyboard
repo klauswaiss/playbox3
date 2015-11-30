@@ -24,12 +24,21 @@
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9om-lu-7f2">
+                                <rect key="frame" x="279" y="357" width="42" height="21"/>
+                                <animations/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <animations/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
+                            <constraint firstItem="9om-lu-7f2" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="NJB-DV-9dl"/>
                             <constraint firstItem="iWu-d7-cuz" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="Nd3-Fo-edM"/>
                             <constraint firstItem="iWu-d7-cuz" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="sLK-WM-Z1i"/>
+                            <constraint firstItem="9om-lu-7f2" firstAttribute="top" secondItem="iWu-d7-cuz" secondAttribute="bottom" constant="46" id="wno-lE-WkA"/>
                         </constraints>
                     </view>
                 </viewController>
