@@ -24,7 +24,7 @@ class ViewController: UIViewController {
     }
     
     private func firstAlert() {
-        let x = 2+1
+        let x = 2+2
     }
     
     private func lastAlert() {
