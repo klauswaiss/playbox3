@@ -32,7 +32,7 @@ class ViewController: UIViewController {
     }
     
     private func printABC() {
-        print("ABCABC")
+        print("abc")
     }
 }
 
