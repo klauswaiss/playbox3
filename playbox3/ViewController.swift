@@ -22,5 +22,9 @@ class ViewController: UIViewController {
     private func shouldShowAlert() -> Bool {
         return true
     }
+    
+    private func firstAlert() {
+        print("first Alert")
+    }
 }
 
