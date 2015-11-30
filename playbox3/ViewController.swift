@@ -26,5 +26,9 @@ class ViewController: UIViewController {
     private func firstAlert() {
         let x = 2+1
     }
+    
+    private func lastAlert() {
+        print("last alert")
+    }
 }
 
