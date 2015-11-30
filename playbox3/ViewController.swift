@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
     
     private func showAlert() {
-        print("improved")
+        print("more improved")
     }
     
     private func shouldShowAlert() -> Bool {
