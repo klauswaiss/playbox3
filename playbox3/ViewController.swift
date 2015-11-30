@@ -30,5 +30,9 @@ class ViewController: UIViewController {
     private func lastAlert() {
         print("last alert")
     }
+    
+    private func printABC() {
+        print("ABC")
+    }
 }
 
