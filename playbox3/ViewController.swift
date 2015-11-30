@@ -17,11 +17,11 @@ class ViewController: UIViewController {
     }
     
     private func showAlert() {
-        print("not finished yet")
+        print("improved")
     }
     
     private func shouldShowAlert() -> Bool {
-        return false
+        return true
     }
 }
 
