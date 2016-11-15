@@ -10,6 +10,6 @@ class ViewController: UIViewController {
     }
     
     func newMethod() {
-        
+        print("b")
     }
 }
