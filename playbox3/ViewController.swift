@@ -12,4 +12,8 @@ class ViewController: UIViewController {
     func newMethod() {
         print("a")
     }
+    
+    func newestMethod() {
+     // do sth
+    }
 }
