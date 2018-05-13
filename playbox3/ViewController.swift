@@ -23,6 +23,10 @@ class ViewController: UIViewController {
     
     }
     
+    func newTestFunc2() {
+    
+    }
+    
     func newTestFunc1() {
     
     }
