@@ -9,6 +9,8 @@ class ViewController: UIViewController {
         print("new")
     }
     
+    // master
+    
     func newMethod() {
         print("a")
     }
