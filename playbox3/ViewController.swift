@@ -16,4 +16,8 @@ class ViewController: UIViewController {
     func newestMethod() {
      // do sth
     }
+    
+    func testBrMethod() {
+    
+    }
 }
