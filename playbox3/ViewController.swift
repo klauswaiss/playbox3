@@ -12,8 +12,4 @@ class ViewController: UIViewController {
     func newFunction() {
         // todo
     }
-    
-    func reallyNew() {
-    
-    }
 }
