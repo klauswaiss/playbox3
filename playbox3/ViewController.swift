@@ -8,27 +8,4 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("new")
     }
-    
-    // master
-    
-    func newMethod() {
-        print("a")
-    }
-    
-    func newestMethod() {
-     // do sth asdfasdf
-    }
-    
-    func testBrMethod() {
-    
-    }
-    
-    func newTestFunc1() {
-    
-    }
 }
-
-
-// test
-
-//
