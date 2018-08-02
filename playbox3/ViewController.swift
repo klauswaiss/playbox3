@@ -8,4 +8,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("new")
     }
+    
+    func newFunction() {
+        // todo
+    }
 }
